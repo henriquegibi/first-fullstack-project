@@ -1,4 +1,4 @@
-package com.henriquegibi.cursomc;
+package com.educandoweb.cursomc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
